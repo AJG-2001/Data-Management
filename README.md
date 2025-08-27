@@ -1,4 +1,4 @@
-Assignment A1 – ESG Paper: Who Should Have Access to Stored Communications?
+ESG Paper: Who Should Have Access to Stored Communications?
 
 📌 Project Overview
 
