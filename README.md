@@ -1,4 +1,5 @@
 Assignment A1 – ESG Paper: Who Should Have Access to Stored Communications?
+
 📌 Project Overview
 
 This project critically examines the ethical and legal dilemmas surrounding law enforcement access to encrypted communications under the Stored Communications Act (SCA). It is divided into two parts:
